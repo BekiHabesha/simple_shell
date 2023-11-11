@@ -329,8 +329,9 @@
 
 ![Beki.]( https://i.ibb.co/G3djqDV/Simple-Shell-for-No11.png)
 
-    * From My Simple Shell Output
+  * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/fCPWrgg/My-Simple-Shell-for-No11.png)
+
 ##
 
 ## **No. 12. && and ||**
@@ -339,7 +340,7 @@
 
 ![Beki.]( https://i.ibb.co/wzfgFP8/Simple-Shell-for-No12.png)
 
-    * From My Simple Shell Output
+  * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/MZxXyhm/My-Simple-Shell-for-No12.png)
 
 #####
