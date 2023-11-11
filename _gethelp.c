@@ -11,7 +11,7 @@
 #include "shell.h"
 
 /**
-  * get_help - The function that retrieves help messages 
+  * get_help - The function that retrieves help messages
   *            according to the builtin
   *
   * @datash: data structure (args and input)
