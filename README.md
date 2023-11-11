@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x16.C-Simple Shell README.md File </ins> </H1>
 
-![My alx]( https://i.ibb.co/vcWxXDy/Alx-enginn-simple-shell.png)
+![My alx. ]( https://i.ibb.co/MgHDB9w/Alx-enginn-simple-shell.png)
 
 ### *This is a team project on 0x16. C - Simple Shell*
   * ***Done by:***
@@ -48,7 +48,7 @@
 
 <h1 align="center">My Simple Shell Files</h1>
 
-##<ins>Table of My Simple Shell Project Files</ins>
+## <ins>Table of My Simple Shell Project Files</ins>
 
 | My Simple Shell Project Files |    |    | |    |    | |    |    |
 |:---:| :---:| :---: |:---:| :---: | :---: |:---:| :---: | :---: |
@@ -368,6 +368,7 @@
 ![Beki.]( https://i.ibb.co/SfGzM2S/Simple-Shell-for-No14.png)
 <br>
 * From My Simple Shell Output
+
 ![Beki_Shell.]( https://i.ibb.co/xXYg0hH/My-Simple-Shell-for-No14.png)
 
 ##
