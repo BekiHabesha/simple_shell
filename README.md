@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x16.C-Simple Shell README.md File </ins> </H1>
 
-![My alx. ]( https://i.ibb.co/MgHDB9w/Alx-enginn-simple-shell.png)
+![My alx. ]( https://i.ibb.co/Mf5VGWs/Alx-enginn-simple-shell.png)
 
 ### *This is a team project on 0x16. C - Simple Shell*
   * ***Done by:***
@@ -43,7 +43,6 @@
 # Background Context
   * Write a simple UNIX command interpreter.
 ![Write a simple UNIX command interpreter.]( https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
-
 ##
 
 <h1 align="center">My Simple Shell Files</h1>
@@ -126,7 +125,7 @@
   * How to suspend the execution of a process until one of its children terminates
   * What is EOF / “end-of-file”?
 
-![Beki_Shell.]( https://i.ibb.co/FDpN6Xy/my-for-midd.png)
+![Beki_Shell.]( https://i.ibb.co/Q8hf3bL/my-for-midd.png)
 
 ###
 
@@ -174,7 +173,7 @@
 ######
 
 ### ***PROJECT_TITLE:*** 
-<h2 align="center"> <ins> 0x16. C - Simple Shell</ins></h2> 
+<h2 align="center"> <ins> 0x16. C - Simple Shell</ins></h2><br>
 ### ***GITHUB_REPOSITORY:***
 <h2 align="center"> <ins> simple_shell</ins></h2> 
 
@@ -197,7 +196,7 @@
 
 <h1 align="center"> <ins> PROJECT TASKS (Mandatory and Advanced)</h1> </ins>
 
-<h1 align="center">*MANDATORY_TASKS (From Task 0 to 5)*</h1>
+<h1 align="center">MANDATORY_TASKS (From Task 0 to 5)</h1>
 
 ## **No. 0. Betty would be proud**
   * <ins>**Write a beautiful code that passes the Betty checks.<ins>**
@@ -228,7 +227,7 @@
     * be able to move the cursor
     * handle commands with arguments
 ####
-* From My Simple Shell Output
+      * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/JCc6tDh/My-Simple-Shell-for-No1.png)
 ##
 
@@ -242,7 +241,7 @@
     * Handle the PATH
     * fork must not be called if the command doesn’t exist
 ![Beki.]( https://i.ibb.co/4g8V0rJ/Simple-Shell-for-No3.png)
-* From My Simple Shell Output
+      * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/Hg145z2/My-Simple-Shell-for-No3.png)
 ##
 
@@ -260,7 +259,7 @@
 ![Beki.]( https://i.ibb.co/n31dWnh/Simple-Shell-for-No5.png)
 ####
 
-* From My Simple Shell Output
+      * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/72qwtvG/My-Simple-Shell-for-No5.png)
 
 ####
@@ -291,20 +290,23 @@
       *where status is an integer used to exit the shell
 ![Beki.]( https://i.ibb.co/TWsc6kX/Simple-Shell-for-No8.png)
 ####
-* From My Simple Shell Output
+      * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/2nTpWqS/my-for-front.png)
 ##
 
 ## **No. 9. setenv, unsetenv**
   * <ins>**Simple shell 1.0 +**</ins>
-<br>
+#####
+
   * Implement the setenv and unsetenv builtin commands
-<br>
+#####
+
   * <ins>**setenv**</ins>
     * Initialize a new environment variable, or modify an existing one
     * <ins>Command syntax</ins>: **setenv VARIABLE VALUE**
     * Should print something on stderr on failure
-<br>
+#####
+
   * <ins>**unsetenv**</ins>
     * Remove an environment variable
     * </ins>Command syntax</ins>: **unsetenv VARIABLE**
@@ -323,11 +325,11 @@
 
 ## **No. 11. ;**
   * <ins>**Simple shell 1.0 +**</ins>
-    * Handle the commands separator <ins>** ; **</ins>
-<br>
+    * Handle the commands separator <ins>**;**</ins>
+
 ![Beki.]( https://i.ibb.co/G3djqDV/Simple-Shell-for-No11.png)
-<br>
-* From My Simple Shell Output
+
+      * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/fCPWrgg/My-Simple-Shell-for-No11.png)
 ##
 
@@ -335,10 +337,10 @@
   * <ins>**Simple shell 1.0 +**</ins>
     * Handle the <ins>**&&**</ins> and <ins>**||**<ins> shell logical operators.
 
-![Beki.]( https://i.ibb.co/NV67DTR/Simple-Shell-for-No12.png)
-<br>
+![Beki.]( https://i.ibb.co/wzfgFP8/Simple-Shell-for-No12.png)
+
 * From My Simple Shell Output
-![Beki_Shell.]( https://i.ibb.co/FDckTnx/My-Simple-Shell-for-No12.png)
+![Beki_Shell.]( https://i.ibb.co/MZxXyhm/My-Simple-Shell-for-No12.png)
 
 #####
 
@@ -534,6 +536,7 @@
       * edge cases for each task. 
         * <ins>**See task 8. Test suite.**</ins>
 
-![Beki_Shell.]( https://i.ibb.co/MfqKRKV/my-usr-bin-tmp.png)
+![Beki_Shell.]( https://i.ibb.co/8XrmdfK/my-usr-bin-tmp.png)
 
 #
+
