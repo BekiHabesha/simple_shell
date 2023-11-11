@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x16.C-Simple Shell README.md File </ins> </H1>
 
-![My alx] ( https://i.ibb.co/vcWxXDy/Alx-enginn-simple-shell.png)
+![My alx]( https://i.ibb.co/vcWxXDy/Alx-enginn-simple-shell.png)
 
 ### *This is a team project on 0x16. C - Simple Shell*
   * ***Done by:***
@@ -128,7 +128,7 @@
 
 ![Beki_Shell.]( https://i.ibb.co/FDpN6Xy/my-for-midd.png)
 
-#
+###
 
 # *Copyright - Plagiarism*
   * You are tasked to come up with solutions for the tasks yourself
@@ -171,14 +171,12 @@
     * If you and your partner have a repository with the same name in both your accounts, 
       * you risk a 0% score. 
     * Add your partner as a collaborator.
-
-#
+######
 
 ### ***PROJECT_TITLE:*** 
-<h2 align="center"> <ins> *0x16. C - Simple Shell*</h2> </ins>
-
+<h2 align="center"> <ins> 0x16. C - Simple Shell</ins></h2> 
 ### ***GITHUB_REPOSITORY:***
-<h2 align="center"> <ins> *simple_shell*</h2> </ins>
+<h2 align="center"> <ins> simple_shell</ins></h2> 
 
 #
 
@@ -186,7 +184,6 @@
 * Created: <ins>**On November 3, 2023**</ins>
 * Authors:
   * <ins>***Bereket Dereje Mekonnen***</ins>
-  * <ins>***Cappy Alemayehu***</ins>
 * Project: <ins>**0x16. C - Simple Shell**</ins>
 * GitHub repository: <ins>**simple_shell**</ins>
 * Directory: <ins>**simple_shell**</ins>
@@ -194,7 +191,6 @@
 * Tasks in number: <ins>**17 Tasks (6->Mandatory & 4->Advanced)**</ins>
 * Mandatory_Tasks: <ins>**From Task 0 to 5**</ins>
 * Advanced_Tasks: <ins>**From Task 6 to 16**</ins>
-
 #
 
 ![Write a simple UNIX command interpreter.]( https://res.cloudinary.com/practicaldev/image/fetch/s--vsp8TPQo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqk9up4gzrgz8f7egozd.png)
@@ -205,13 +201,11 @@
 
 ## **No. 0. Betty would be proud**
   * <ins>**Write a beautiful code that passes the Betty checks.<ins>**
-
 ##
 
 ## **No. 1. Simple shell 0.1**
   * <ins>**Write a UNIX command line interpreter.<ins>**
     * <ins>Usage</ins>: **simple_shell**
-
 ###
 
   * <ins>**Your Shell should</ins>:**
@@ -236,13 +230,11 @@
 ####
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/JCc6tDh/My-Simple-Shell-for-No1.png)
-
 ##
 
 ## **No. 2. Simple shell 0.2**
   * <ins>**Simple shell 0.1 +</ins>**
     * Handle command lines with arguments
-
 ##
 
 ## **No. 3. Simple shell 0.3**
@@ -250,10 +242,8 @@
     * Handle the PATH
     * fork must not be called if the command doesn’t exist
 ![Beki.]( https://i.ibb.co/4g8V0rJ/Simple-Shell-for-No3.png)
-####
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/Hg145z2/My-Simple-Shell-for-No3.png)
-
 ##
 
 ## **No. 4. Simple shell 0.4**
@@ -261,7 +251,6 @@
     * Implement the exit built-in, that exits the shell
     * <ins>Usage</ins>: **exit**
     * You don’t have to handle any argument to the built-in exit
-
 ##
 
 ## **No. 5. Simple shell 1.0**
@@ -270,9 +259,11 @@
       * that prints the current environment
 ![Beki.]( https://i.ibb.co/n31dWnh/Simple-Shell-for-No5.png)
 ####
+
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/72qwtvG/My-Simple-Shell-for-No5.png)
-#
+
+####
 
 <h1 align="center"> <ins> ADVANCED_TASKS (From Task 6 to 16) </ins> </h1>
 
@@ -306,21 +297,18 @@
 
 ## **No. 9. setenv, unsetenv**
   * <ins>**Simple shell 1.0 +**</ins>
-####
-
+<br>
   * Implement the setenv and unsetenv builtin commands
-##
-
-    * <ins>**setenv**</ins>
-      * Initialize a new environment variable, or modify an existing one
-      * <ins>Command syntax</ins>: **setenv VARIABLE VALUE**
-      * Should print something on stderr on failure
-## 
-
-   * <ins>**unsetenv**</ins>
-      * Remove an environment variable
-      * </ins>Command syntax</ins>: **unsetenv VARIABLE**
-      * Should print something on stderr on failure
+<br>
+  * <ins>**setenv**</ins>
+    * Initialize a new environment variable, or modify an existing one
+    * <ins>Command syntax</ins>: **setenv VARIABLE VALUE**
+    * Should print something on stderr on failure
+<br>
+  * <ins>**unsetenv**</ins>
+    * Remove an environment variable
+    * </ins>Command syntax</ins>: **unsetenv VARIABLE**
+    * Should print something on stderr on failure
 ##
 
 ## **No. 10. cd**
@@ -336,20 +324,23 @@
 ## **No. 11. ;**
   * <ins>**Simple shell 1.0 +**</ins>
     * Handle the commands separator <ins>** ; **</ins>
+<br>
 ![Beki.]( https://i.ibb.co/G3djqDV/Simple-Shell-for-No11.png)
-####
+<br>
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/fCPWrgg/My-Simple-Shell-for-No11.png)
 ##
 
 ## **No. 12. && and ||**
   * <ins>**Simple shell 1.0 +**</ins>
-    * Handle the <ins>**&&**</ins> and <ins>**||**<ins> shell logical operators
+    * Handle the <ins>**&&**</ins> and <ins>**||**<ins> shell logical operators.
+
 ![Beki.]( https://i.ibb.co/NV67DTR/Simple-Shell-for-No12.png)
-####
+<br>
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/FDckTnx/My-Simple-Shell-for-No12.png)
-##
+
+#####
 
 ## **No. 13. alias**
   * <ins>**Simple shell 1.0 +**</ins>
@@ -367,7 +358,6 @@
         * Defines an alias for each name whose value is given. 
         * If name is already an alias,
           * replaces its value with value
-
 ##
 
 ## **No. 14. Variables**
@@ -376,18 +366,21 @@
     * Handle the <ins>**" $? "**</ins> variable
     * Handle the <ins>**" $$ "**</ins> variable
 ![Beki.]( https://i.ibb.co/SfGzM2S/Simple-Shell-for-No14.png)
-####
+<br>
 * From My Simple Shell Output
 ![Beki_Shell.]( https://i.ibb.co/xXYg0hH/My-Simple-Shell-for-No14.png)
+
 ##
 
 ## **No. 15. Comments**
   * <ins>**Simple shell 1.0 +**</ins>
     * Handle comments <ins>** (#) **</ins>
 ![Beki.]( https://i.ibb.co/fnWhm7T/Simple-Shell-for-No15.png)
-####
+<br>
 * From My Simple Shell Output
+
 ![Beki_Shell.]( https://i.ibb.co/gSGjqMJ/My-Simple-Shell-for-No15.png)
+
 ##
 
 ## **No. 16. File as input**
@@ -512,6 +505,7 @@
              ($)
              ($) exit
               $
+
 ![Beki_Shell.]( https://i.ibb.co/2nTpWqS/my-for-front.png)
 
  * <ins>**But also in non-interactive mode:**</ins>
@@ -540,4 +534,5 @@
         * <ins>**See task 8. Test suite.**</ins>
 
 ![Beki_Shell.]( https://i.ibb.co/MfqKRKV/my-usr-bin-tmp.png)
+
 #
