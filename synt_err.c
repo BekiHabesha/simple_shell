@@ -88,7 +88,6 @@ void print_syntax_error(data_shell *datash, char *input, int i, int bool)
 
 		if (bool == 0)
 			msg = (input[i + 1] == ';' ? ";;" : ";");
-
 		else
 			msg = (input[i - 1] == ';' ? ";;" : ";");
 
@@ -144,7 +143,6 @@ int check_syntax_error(data_shell *datash, char *input)
 	if (f_char == -1)
 	{
 		print_syntax_error(datash, input, begin, 0);
-
 		return (1);
 	}
 
